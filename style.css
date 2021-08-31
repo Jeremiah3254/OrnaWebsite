@@ -95,50 +95,100 @@ body {
   top: 100px;
   left:0%;
 }
+#T1ClassText {
+  position:absolute;
+  top: 100px;
+  left:425px;
+}
 #T2Classes {
   position:absolute;
   top: 175px;
   left:0%;
+}
+#T2ClassText {
+  position:absolute;
+  top: 175px;
+  left:425px;
 }
 #T3Classes {
   position:absolute;
   top: 250px;
   left:0%;
 }
+#T3ClassText {
+  position:absolute;
+  top: 250px;
+  left:425px;
+}
 #T4Classes {
   position:absolute;
   top: 325px;
   left:0%;
+}
+#T4ClassText {
+  position:absolute;
+  top: 325px;
+  left:425px;
 }
 #T5Classes {
   position:absolute;
   top: 400px;
   left:0%;
 }
+#T5ClassText {
+  position:absolute;
+  top: 400px;
+  left:425px;
+}
 #T6Classes {
   position:absolute;
   top: 475px;
   left:0%;
+}
+#T6ClassText {
+  position:absolute;
+  top: 475px;
+  left:425px;
 }
 #T7Classes {
   position:absolute;
   top: 550px;
   left:0%;
 }
+#T7ClassText {
+  position:absolute;
+  top: 550px;
+  left:425px;
+}
 #T8Classes {
   position:absolute;
   top: 625px;
   left:0%;
+}
+#T8ClassText {
+  position:absolute;
+  top: 625px;
+  left:475px;
 }
 #T9Classes {
   position:absolute;
   top: 700px;
   left:0%;
 }
+#T9ClassText {
+  position:absolute;
+  top: 700px;
+  left:475px;
+}
 #T10Classes {
   position:absolute;
   top: 775px;
   left:0%;
+}
+#T10ClassText {
+  position:absolute;
+  top: 775px;
+  left:500px;
 }
 
 /* hover stuff */
